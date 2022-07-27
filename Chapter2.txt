@@ -1,0 +1,1 @@
+Node.js is an open source, cross-platform, back end Javascript runtime environment which allows to create scalable and fast running websites.
