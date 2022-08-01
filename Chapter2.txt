@@ -1,1 +1,3 @@
 Node.js is an open source, cross-platform, back end Javascript runtime environment which allows to create scalable and fast running websites.
+
+It allows to take Javascrpt out of the browser, liberates it allowing it to interact directly with the hardware of the computer in order to access local files, listen to network traffic and manipulate databases.
