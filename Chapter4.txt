@@ -1,0 +1,1 @@
+Branching is the process of creating a new experimental branch for modifying and committing contents working simultaneously with the main or master branch in parallel and merging them together if required.
